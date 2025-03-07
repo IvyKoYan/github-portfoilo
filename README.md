@@ -10,6 +10,7 @@ I'm a **cloud and cybersecurity professional** with experience in **IT support, 
 - 🔐 Penetration Testing: Metasploit, Nessus, Hydra
 - ⚙ Automation: DevOps CI/CD, Terraform, Ansible, Bash, Python
 - 📊 Monitoring: ELK Stack, Splunk, Sysmon
+- 📜 Compliance & Auditing: Risk Assessment, Access Control, IT Governance
 
 # 📌 Projects
 Shadow Sentry Project: Built an ELK-based **security monitoring system** to detect real-time cyber threats.
